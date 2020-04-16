@@ -20,3 +20,5 @@ nama bot : fadhel-ecommers-bot
 ![WhatsApp Image 2020-04-15 at 5 26 33 PM (1)](https://user-images.githubusercontent.com/56714457/79327338-7b351e00-7f3e-11ea-8d77-24e8f13e558f.jpeg)
 
 ![WhatsApp Image 2020-04-15 at 5 26 33 PM (2)](https://user-images.githubusercontent.com/56714457/79327344-7ff9d200-7f3e-11ea-9bf5-b698a7a84dd7.jpeg)
+
+![WhatsApp Image 2020-04-16 at 3 36 38 PM](https://user-images.githubusercontent.com/56714457/79434201-34a3fa00-7ff8-11ea-863e-d9daf68363c5.jpeg)
