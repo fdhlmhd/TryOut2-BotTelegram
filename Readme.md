@@ -9,7 +9,7 @@ node bot.js (bash 2)
 
 nama bot : fadhel-ecommers-bot
 ```sh
-.env = PORT = 8000
+.env = PORT = 7000
        DATABASE_HOST = 127.0.0.1
        DATABASE_USER = root
        DATABASE_NAME = online_order
