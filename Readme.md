@@ -3,22 +3,14 @@
 ### server masih dijalan kan di localhost dengan database Mysql lokal
 run program :
 ```sh
-npm run dev (bash 1)
-node bot.js (bash 2)
+npm run start
 ```
 
 nama bot : fadhel-ecommers-bot
+
 ```sh
 .env = PORT = 7000
        DATABASE_HOST = 127.0.0.1
        DATABASE_USER = root
-       DATABASE_NAME = online_order
+       DATABASE_NAME = online_order_v1
 ```
-
-![WhatsApp Image 2020-04-15 at 5 26 33 PM](https://user-images.githubusercontent.com/56714457/79327314-72444c80-7f3e-11ea-837b-9c1dfe0228d0.jpeg)
-
-![WhatsApp Image 2020-04-15 at 5 26 33 PM (1)](https://user-images.githubusercontent.com/56714457/79327338-7b351e00-7f3e-11ea-8d77-24e8f13e558f.jpeg)
-
-![WhatsApp Image 2020-04-15 at 5 26 33 PM (2)](https://user-images.githubusercontent.com/56714457/79327344-7ff9d200-7f3e-11ea-9bf5-b698a7a84dd7.jpeg)
-
-![WhatsApp Image 2020-04-16 at 3 36 38 PM](https://user-images.githubusercontent.com/56714457/79434201-34a3fa00-7ff8-11ea-863e-d9daf68363c5.jpeg)
