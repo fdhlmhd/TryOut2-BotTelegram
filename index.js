@@ -126,7 +126,9 @@ bot.onText(/\/product/, async (msg)=>{
             }, parse_mode:"Markdown"}
             );
           });
+      setTimeout(()=>{
         bot.sendMessage(msg.chat.id,'Setelah selesai memilih produk, silahkan melakukan /checkout untuk pembayaran')
+    }, 5000)
     } catch (error) {
         console.log(error);
     }
